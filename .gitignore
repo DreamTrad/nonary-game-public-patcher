@@ -1,0 +1,13 @@
+/__pycache__
+/build
+/dist
+/.mypy_cache
+
+/xdeltaUI
+patch/*
+
+*.spec
+*.log
+*.pyc
+
+*.exe
